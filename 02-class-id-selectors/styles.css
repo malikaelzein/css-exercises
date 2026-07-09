@@ -5,7 +5,7 @@
 }
 
 #even {
-    color: blue;
+    color: hsl(240, 100%, 50%);
     font-size: 36px;
 }
 
